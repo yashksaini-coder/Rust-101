@@ -8,9 +8,11 @@
       <sourceFolder url="file://$MODULE_DIR$/Basics/hello_world/src" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/Basics/shadowing/src" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/Basics/variables/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Advance/RefCell/src" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/Advance/box_deref_coersion/src" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/Advance/custom_deref_operator/src" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/Advance/multiple_owner_ref_count/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Advance/mutate_shared_references/src" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/Advance/rc/src" isTestSource="false" />
       <excludeFolder url="file://$MODULE_DIR$/Advance/Box/target" />
       <excludeFolder url="file://$MODULE_DIR$/Basics/Functions/target" />
@@ -18,9 +20,11 @@
       <excludeFolder url="file://$MODULE_DIR$/Basics/hello_world/target" />
       <excludeFolder url="file://$MODULE_DIR$/Basics/shadowing/target" />
       <excludeFolder url="file://$MODULE_DIR$/Basics/variables/target" />
+      <excludeFolder url="file://$MODULE_DIR$/Advance/RefCell/target" />
       <excludeFolder url="file://$MODULE_DIR$/Advance/box_deref_coersion/target" />
       <excludeFolder url="file://$MODULE_DIR$/Advance/custom_deref_operator/target" />
       <excludeFolder url="file://$MODULE_DIR$/Advance/multiple_owner_ref_count/target" />
+      <excludeFolder url="file://$MODULE_DIR$/Advance/mutate_shared_references/target" />
       <excludeFolder url="file://$MODULE_DIR$/Advance/rc/target" />
     </content>
     <orderEntry type="inheritedJdk" />
