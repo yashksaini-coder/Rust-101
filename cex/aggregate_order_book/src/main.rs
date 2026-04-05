@@ -53,6 +53,5 @@ fn main() {
 
     let (bid_levels, best_bid) = aggregate_and_best(bids, true);
     let (ask_levels, best_ask) = aggregate_and_best(asks, false);
-
-    println!(bid_levels, ask_levels, best_bid, best_ask);
-}
+    
+ }
