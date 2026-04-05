@@ -14,6 +14,13 @@
       <sourceFolder url="file://$MODULE_DIR$/Advance/multiple_owner_ref_count/src" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/Advance/mutate_shared_references/src" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/Advance/rc/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/cex/exchange_economics/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/cex/order_intake/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/cex/price_priority/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/cex/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Basics/BTree/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Basics/BTreeMap/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/cex/aggregate_order_book/src" isTestSource="false" />
       <excludeFolder url="file://$MODULE_DIR$/Advance/Box/target" />
       <excludeFolder url="file://$MODULE_DIR$/Basics/Functions/target" />
       <excludeFolder url="file://$MODULE_DIR$/Basics/guessing_game/target" />
@@ -26,6 +33,13 @@
       <excludeFolder url="file://$MODULE_DIR$/Advance/multiple_owner_ref_count/target" />
       <excludeFolder url="file://$MODULE_DIR$/Advance/mutate_shared_references/target" />
       <excludeFolder url="file://$MODULE_DIR$/Advance/rc/target" />
+      <excludeFolder url="file://$MODULE_DIR$/cex/exchange_economics/target" />
+      <excludeFolder url="file://$MODULE_DIR$/cex/order_intake/target" />
+      <excludeFolder url="file://$MODULE_DIR$/cex/price_priority/target" />
+      <excludeFolder url="file://$MODULE_DIR$/cex/target" />
+      <excludeFolder url="file://$MODULE_DIR$/Basics/BTree/target" />
+      <excludeFolder url="file://$MODULE_DIR$/Basics/BTreeMap/target" />
+      <excludeFolder url="file://$MODULE_DIR$/cex/aggregate_order_book/target" />
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
